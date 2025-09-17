@@ -1,0 +1,3 @@
+when u start run (npm start) react load (index.js) pages that render (/App) the App.js have UI and function have
+ call openweather with axios The CSS files style the page and public/ holds images referenced by your CSS/JS.
+ 

@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2b6173b4.css",
+    "main.js": "/static/js/main.e29d85a9.js",
+    "static/media/Boy Enjoying the Sunny Day.png": "/static/media/Boy Enjoying the Sunny Day.2ea6fb6f9a0c1752b84b.png",
+    "index.html": "/index.html",
+    "main.2b6173b4.css.map": "/static/css/main.2b6173b4.css.map",
+    "main.e29d85a9.js.map": "/static/js/main.e29d85a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b6173b4.css",
+    "static/js/main.e29d85a9.js"
+  ]
+}
